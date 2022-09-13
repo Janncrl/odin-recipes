@@ -1,0 +1,39 @@
+html {
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+}
+header {
+ margin: 0 auto;
+ padding: 2px;
+ text-align: center;
+width: 500px;
+}
+img {
+ border-radius: 22px;
+ box-shadow: 5px 8px #d3d1d1;
+ width: auto;
+ height: 400px;
+}
+
+.container{
+ margin: 0 auto;
+ width: 500px;
+ text-align: left;
+}
+
+footer{
+ text-align: center;
+}
+footer li{
+ list-style-type: none;
+  display: inline-block;
+  padding: 0 20px;
+}
+footer a{
+ text-decoration: none;
+  color: green;
+}
+footer ul{
+ display: flex;
+ justify-content: center;
+}
