@@ -3,27 +3,27 @@ html {
   font-size: 1.2rem;
 }
 header {
- margin: 0 auto;
- padding: 2px;
- text-align: center;
+  margin: 0 auto;
+  padding: 2px;
+  text-align: center;
 width: 500px;
 }
 img {
- border-radius: 22px;
- box-shadow: 5px 8px #d3d1d1;
- width: auto;
- height: 400px;
+  border-radius: 22px;
+  box-shadow: 5px 8px #d3d1d1;
+  width: auto;
+  height: 400px;
 }
 
 .container{
- margin: 0 auto;
- width: 500px;
- text-align: left;
- background: rgba(211, 209, 196, 0.8);
+  margin: 0 auto;
+  width: 500px;
+  text-align: left;
+  background: rgba(211, 209, 196, 0.8);
 }
 
 footer{
- text-align: center;
+  text-align: center;
 }
 footer li{
  list-style-type: none;
@@ -31,10 +31,10 @@ footer li{
   padding: 0 20px;
 }
 footer a{
- text-decoration: none;
+  text-decoration: none;
   color: green;
 }
 footer ul{
- display: flex;
- justify-content: center;
+  display: flex;
+  justify-content: center;
 }
